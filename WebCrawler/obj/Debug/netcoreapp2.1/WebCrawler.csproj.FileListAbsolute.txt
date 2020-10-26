@@ -1,0 +1,11 @@
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\bin\Debug\netcoreapp2.1\WebCrawler.deps.json
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\bin\Debug\netcoreapp2.1\WebCrawler.runtimeconfig.json
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\bin\Debug\netcoreapp2.1\WebCrawler.runtimeconfig.dev.json
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\bin\Debug\netcoreapp2.1\WebCrawler.dll
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\obj\Debug\netcoreapp2.1\WebCrawler.csprojAssemblyReference.cache
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\obj\Debug\netcoreapp2.1\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\obj\Debug\netcoreapp2.1\WebCrawler.AssemblyInfoInputs.cache
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\obj\Debug\netcoreapp2.1\WebCrawler.AssemblyInfo.cs
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\bin\Debug\netcoreapp2.1\WebCrawler.pdb
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\obj\Debug\netcoreapp2.1\WebCrawler.dll
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\obj\Debug\netcoreapp2.1\WebCrawler.pdb

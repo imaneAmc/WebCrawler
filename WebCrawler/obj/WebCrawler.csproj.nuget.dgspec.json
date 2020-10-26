@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\imane.amchich\\source\\repos\\WebCrawlerSolution\\WebCrawler\\WebCrawler.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\imane.amchich\\source\\repos\\WebCrawlerSolution\\WebCrawler\\WebCrawler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imane.amchich\\source\\repos\\WebCrawlerSolution\\WebCrawler\\WebCrawler.csproj",
+        "projectName": "WebCrawler",
+        "projectPath": "C:\\Users\\imane.amchich\\source\\repos\\WebCrawlerSolution\\WebCrawler\\WebCrawler.csproj",
+        "packagesPath": "C:\\Users\\imane.amchich\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imane.amchich\\source\\repos\\WebCrawlerSolution\\WebCrawler\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\imane.amchich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Abot": {
+              "target": "Package",
+              "version": "[2.0.67, )"
+            },
+            "AbotX": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.25, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.12, )",
+              "autoReferenced": true
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

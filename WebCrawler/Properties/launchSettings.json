@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WebCrawler": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.theblogstarter.com -s:\"Crawler\""
+    }
+  }
+}

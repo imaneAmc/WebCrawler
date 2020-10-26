@@ -1,0 +1,14 @@
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\bin\Release\netcoreapp2.1\win10-x64\WebCrawler.exe
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\bin\Release\netcoreapp2.1\win10-x64\WebCrawler.deps.json
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\bin\Release\netcoreapp2.1\win10-x64\WebCrawler.runtimeconfig.json
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\bin\Release\netcoreapp2.1\win10-x64\WebCrawler.runtimeconfig.dev.json
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\bin\Release\netcoreapp2.1\win10-x64\WebCrawler.dll
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\bin\Release\netcoreapp2.1\win10-x64\WebCrawler.pdb
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\obj\Release\netcoreapp2.1\win10-x64\WebCrawler.csprojAssemblyReference.cache
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\obj\Release\netcoreapp2.1\win10-x64\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\obj\Release\netcoreapp2.1\win10-x64\WebCrawler.AssemblyInfoInputs.cache
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\obj\Release\netcoreapp2.1\win10-x64\WebCrawler.AssemblyInfo.cs
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\obj\Release\netcoreapp2.1\win10-x64\WebCrawler.dll
+C:\Users\imane.amchich\source\repos\WebCrawlerSolution\WebCrawler\obj\Release\netcoreapp2.1\win10-x64\WebCrawler.pdb
